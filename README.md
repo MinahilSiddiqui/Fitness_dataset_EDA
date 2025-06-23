@@ -28,7 +28,7 @@ Ensure you have the following installed:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/Fitness_dataset_EDA.git
+   git clone https://github.com/MinahilSiddiqui/Fitness_dataset_EDA.git
    ```
 
 2. Navigate to the directory:
@@ -50,7 +50,7 @@ Ensure you have the following installed:
 Replace the following path in the notebook to load your specific dataset:
 
 ```python
-data = pd.read_csv("fitness_dataset.csv")
+data = pd.read_csv("path_to_dataset.csv")
 ```
 
 ### Assumptions about the dataset:
@@ -76,7 +76,7 @@ The notebook generates:
 1. Open the notebook in Jupyter:
 
    ```bash
-   jupyter notebook fitness_EDA.ipynb
+   jupyter notebook fitnessAnalysis.ipynb
    ```
 
 2. Run cells sequentially to perform the analysis.
@@ -92,4 +92,3 @@ Feel free to contribute by:
 * Submitting pull requests for enhancements
 
 ---
-
